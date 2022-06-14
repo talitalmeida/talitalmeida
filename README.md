@@ -6,8 +6,8 @@
 
 <p>
   💻 Ciência da Computação <br/>
-  🔥 Estudos voltados para dev em Back-end <br/>
-  🤜🤛 One Piece 
+   🔥 Estudos voltados para dev em Back-end <br/>
+  ❌ One Piece 
 </p>
 
 ## ⭐ GitHub Stats
