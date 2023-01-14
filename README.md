@@ -1,32 +1,25 @@
-<span align="center">
+<span align="left">
 
 ## Hellooo! I'm Talita Almeida! 👋 
 
 </span>
 
 <p>
-  💻 Ciência da Computação <br/>
-   🔥 Estudos voltados para dev em Back-end <br/>
+  💻 Computer Science <br/>
+   🔥 Studies aimed at dev in Back-end and UX Design <br/>
   ❌ One Piece 
 </p>
 
-## ⭐ GitHub Stats
-<div align="center">
-  <a href="https://github.com/talitalmeida">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talitalmeida&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talitalmeida&layout=compact&langs_count=7&theme=radical">
-</div>
-  
-<!--img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talitalmeida&layout=compact&langs_count=7&theme=radical
- -->
-<br> 
+## ⭐ Hard Skills
+
 <div style=" display: inline_block"> <!--Ícones de dev-->
-  <div align="center">
-    <img align="center" alt="Talita-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Talita-c" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-    <img align="center" alt="Talita-c++" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />     
-    <img align="center" alt="Talita-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Talita-java" height="50" width="40"  img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <div align="left">
+    <img align="center" alt="Talita-figma" height="40" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+    <img align="center" alt="Talita-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Talita-c" height="35" width="45" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+    <img align="center" alt="Talita-c++" height="35" width="45" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />     
+    <img align="center" alt="Talita-Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Talita-java" height="60" width="50"  img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
     <img align="center" alt="Talita-trello" height="70" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" /> 
   </div> 
 </div>
