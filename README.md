@@ -1,14 +1,15 @@
 <span align="left">
 
-## Hellooo! I'm Talita Almeida! 👋 
+## Oiiii! Eu sou a Talita Almeida! 👋 
 
 </span>
 
 <p>
-  💻 Computer Science <br/>
-   🔥 Studies aimed at dev in Back-end and UX Design <br/>
+  💻 Ciência da Computação <br/>
+   🔥 Estudos voltados para dev Back-end e UX Design <br/>
   ❌ One Piece 
 </p>
+
 
 ## ⭐ Hard Skills
 
@@ -22,7 +23,11 @@
     <img align="center" alt="Talita-java" height="60" width="50"  img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
     <img align="center" alt="Talita-trello" height="70" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" /> 
   </div> 
+    <a href="https://github.com/talitalmeida">
+    <img width="48.5%" src="https://github-readme-stats.vercel.app/api?username=talitalmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img width="40.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talitalmeida&layout=compact&langs_count=7&theme=tokyonight">
 </div>
+ 
   
  ## 💌 Text me: ⤵️
  <div><!--Redes sociais-->
