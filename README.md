@@ -5,9 +5,10 @@
 </span>
 
 <p>
-  💻 Ciência da Computação <br/>
-   🔥 Estudos voltados para dev Back-end e UX Design <br/>
-  ❌ One Piece 
+  💻 Acadêmica de Ciência da Computação <br/>
+   🔥 UX Designer e desenvolvedora de Banco de Dados SQL<br/>
+  ❌ One Piece <br/>
+  🤓 Entusiasta em Ciência de Dados
 </p>
 
 
