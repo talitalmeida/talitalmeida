@@ -6,7 +6,7 @@
 
 <p>
   💻 Acadêmica de Ciência da Computação <br/>
-   🔥 UX Designer e desenvolvedora de Banco de Dados SQL<br/>
+   🔥 UX Designer e Front-end Júnior<br/>
   ❌ How I fix it? <br/>
   🤓 Entusiasta em Ciência de Dados
 </p>
