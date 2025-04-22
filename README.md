@@ -1,12 +1,14 @@
-<span align="left">
+<!--<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=talitalmeida.talitalmeida" />-->
 
-## Oiiii! Eu sou a Talita Almeida! 👋 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hello,+world!;" />
+</h1>
 
-</span>
+<h3 align="center">Oiiii! Eu sou a Talita Almeida! 👋 </h3>
 
 <p>
   💻 Acadêmica de Ciência da Computação <br/>
-   🔥 Analista de dados PBI, UX Designer e Front-end Júnior<br/>
+   🔥 Analista de dados PBI, UX Designer e Front-end (tudo júnior)<br/>
   ❌ How I fix it? <br/>
   🤓 Entusiasta em Ciência de Dados
 </p>
@@ -26,8 +28,8 @@
     <img align="center" alt="Talita-trello" height="70" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" /> 
   </div> 
     <a href="https://github.com/talitalmeida">
-    <img width="48.5%" src="https://github-readme-stats.vercel.app/api?username=talitalmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img width="40.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talitalmeida&layout=compact&langs_count=7&theme=tokyonight">
+      <img width=390 src="https://github-readme-stats-drab-seven-40.vercel.app/api?username=talitalmeida&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+      <img width="26%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talitalmeida&layout=compact&langs_count=7&theme=tokyonight">
 </div>
  
   
