@@ -29,7 +29,7 @@
   </div> 
     <a href="https://github.com/talitalmeida">
       <img width=390 src="https://github-readme-stats-drab-seven-40.vercel.app/api?username=talitalmeida&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-      <img width="26%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talitalmeida&layout=compact&langs_count=7&theme=tokyonight">
+      <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talitalmeida&layout=compact&langs_count=7&theme=tokyonight">
 </div>
  
   
